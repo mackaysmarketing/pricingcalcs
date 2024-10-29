@@ -2,6 +2,7 @@
   "name": "banana-calc-v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mackaysmarketing.github.io/pricingcalcs/"
   "dependencies": {
     "@fluentui/react-components": "^9.55.1",
     "@fluentui/react-icons": "^2.0.263",
