@@ -2,7 +2,7 @@
   "name": "banana-calc-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mackaysmarketing.github.io/pricingcalcs/"
+  "homepage": "https://mackaysmarketing.github.io/pricingcalcs/",
   "dependencies": {
     "@fluentui/react-components": "^9.55.1",
     "@fluentui/react-icons": "^2.0.263",
@@ -13,6 +13,7 @@
     "@types/node": "^16.18.115",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
+    "banana-calc-v2": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -45,7 +46,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
